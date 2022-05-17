@@ -26,6 +26,4 @@ public class Mentoria extends Entity<MentoriaId> {
         //TODO: validaciones
         this.directices.add(directiz);
     }
-
-
 }

@@ -6,6 +6,7 @@ public class CursoId extends Identity {
     public CursoId(String id){
         super(id);
     }
+
     public static CursoId of(String id) {
         return new CursoId(id);
     }
